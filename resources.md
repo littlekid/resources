@@ -27,6 +27,8 @@ Feel free to submit PRs [here](https://github.com/HackQuarantine/resources) if y
 
 
 ## Tools
+* [46elks - API for SMS, phone calls and phone numbers](https://46elks.com/hq)
+  You can reach out to victoria@46elks.com, ben@46elks.com or help@46elks.com if you have any questions, or need more credits for you hackathon project.
 
 ### Languages
 
